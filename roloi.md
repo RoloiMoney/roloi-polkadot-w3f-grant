@@ -117,8 +117,6 @@ Own user base, including:
 * We haven’t found any other similar projects in the ecosystem
 * We think there is an opportunity of collaborating with the [OAK network](https://oak.tech/) team, since their parachain is focused on payment automation and we could leverage that feature
 
-***
-
 ## Team :busts_in_silhouette:
 
 ### **Team members**
@@ -148,8 +146,6 @@ We started our **crypto journey** more than 2 years ago by learning Solidity and
 He is an active participant in many crypto communities such as [DeFi Argentina](https://twitter.com/DeFiArgentina) and [NFTamina](https://twitter.com/NFTamina). 
 
 Hernán joined the Roloi team to help with the growth and networking strategy, leveraging his knowledge about DeFi and communities.
-
-***
 
 ## Development Status :open_book:
 
@@ -185,8 +181,6 @@ We are working on creating our own UI abstractions to easily integrate any block
 * Creating transactions
 * Displaying metadata like icons and links
 
-***
-
 ## Development Roadmap :nut_and_bolt:
 
 ### **Overview**
@@ -212,8 +206,6 @@ We are working on creating our own UI abstractions to easily integrate any block
 | 1c. | Get stream by ID | Function that returns the stream information. |  
 | 2. | **Article** | Medium article explaining the development experience while migrating from CosmWasm to ink! |  
 
-***
-
 ## Future Plans
 ![8-future plans](https://user-images.githubusercontent.com/101722282/173200843-b0df45e6-cf08-4665-bd5f-a4cff8cb2724.png)
 Some features included in our **roadmap**:
@@ -230,8 +222,6 @@ Some features included in our **roadmap**:
 * Trading automation: strategies like DCA
 
 Our roadmap will vary depending on user and investors feedback. We will prioritize features needed in the Polkadot ecosystem.
-
-***
 
 ## Additional Information :heavy_plus_sign:
 
