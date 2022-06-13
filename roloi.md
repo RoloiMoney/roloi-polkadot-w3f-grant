@@ -2,7 +2,7 @@
 
 - **Project Name:** Roloi
 - **Team Name:** NeoPower
-- **Payment Address:** TO_COMPLETE
+- **Payment Address:** 0x1f5CE2eDdaAAe75ff62729feE50F861bCDC0b62e (USDT)
 - **Level:** 2
 
 ## Project Overview :page_facing_up:
