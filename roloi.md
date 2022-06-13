@@ -208,6 +208,7 @@ We are working on creating our own UI abstractions to easily integrate any block
 
 ## Future Plans
 ![8-future plans](https://user-images.githubusercontent.com/101722282/173200843-b0df45e6-cf08-4665-bd5f-a4cff8cb2724.png)
+
 Some features included in our **roadmap**:
 * Yield strategies
     * Payer gets yield over the streamed amount by using strategies like liquid staking
