@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StreamsContract",""],["StreamsContractRef",""]],"type":[["AccountId",""],["Balance",""],["BlockNumber",""],["Environment",""],["Hash",""],["Timestamp",""]]});

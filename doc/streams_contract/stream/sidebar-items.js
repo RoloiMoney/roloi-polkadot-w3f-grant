@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["STREAM_MINIMUM_DURATION","Minimum duration that a stream can have."]],"struct":[["Stream","Struct for storing streams"]]});
